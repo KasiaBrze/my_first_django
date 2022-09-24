@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 #database 
-cinfiguration.py
+cinfig.py
